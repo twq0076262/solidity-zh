@@ -10,6 +10,7 @@
   - [表达式和控制结构](expressions-control-structures.md)
   - [合约](contracts.md)
   - [杂项](miscellaneous.md)
+- [Security Considerations](security-considerations.md)
 - [编程规范](style-guide.md)
 - [通用模式](common-patterns.md)
 - [常见问题](frequently-asked-questions.md)
