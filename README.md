@@ -30,12 +30,12 @@ PS: 想探讨Solidity技术的可以加"Solidity技术交流群"：549293015
 <https://github.com/ethereum/solidity>
 
 中文版 GitHub 仓库：  
-<https://github.com/jikexueyuanwiki/tensorflow-zh>
+<https://github.com/twq0076262/solidity-zh>
 
 
 ## 参与步骤
 
-* fork主仓库（<https://github.com/jikexueyuanwiki/tensorflow-zh>）
+* fork主仓库（<https://github.com/twq0076262/solidity-zh>）
 * 按照章节认领翻译(每次申请一个章节)或者校对(可申请多个章节)在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的 pull request 被确认，合并到主仓库后，代表你申请的章节*认领*完成，开始翻译或校对；
 * 翻译或校对的文件为README.md或者TOC.md中对应的md文件，请不要翻译/校对单独文件夹中的index.md
