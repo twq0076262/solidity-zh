@@ -74,7 +74,7 @@ PS: 想探讨Solidity技术的可以加"Solidity技术交流群"：549293015
 
 ### 翻译 & 校对
 
-- [智能合约介绍](introduction-smart-contracts.md) 翻译：（待认领）校对： (待认领) 
+- [智能合约介绍](introduction-smart-contracts.md) 翻译：AmagiDDmxh 校对： (待认领) 
 - [安装Solidity](installing-solidity.md) 翻译：（待认领）校对： (待认领) 
 - [Solidity 编程实例](solidity-example.md) 翻译：（待认领）校对： (待认领) 
 - [深入理解 Solidity](solidity-depth.md) 翻译：（待认领）校对： (待认领) 
